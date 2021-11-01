@@ -17,3 +17,4 @@ there are 2 ojectives<br />
 
 ac_df= pd.read_csv(r'AC_Data.csv')
 <br/> data set contains power for multiple AC's at some hotel in Gurgaon.
+# ** please checkout the Analysis_Result1.ipynb file...**
